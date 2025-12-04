@@ -27,17 +27,7 @@
 
 
 
-## 🌐 Connect with Me
 
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Wahidul--Hoque-black?style=flat-square&logo=github)](https://github.com/Wahidul-Hoque)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Wahidul_k_a-blue?style=flat-square)](https://codeforces.com/profile/Wahidul_k_a)
-
-</div>
-
----
 
 
 
