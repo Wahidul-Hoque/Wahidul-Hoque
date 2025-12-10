@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Wahidul-Hoque&color=brightgreen" alt="Profile Views" />
 </p>
 
-# 👋 Hi, I’m Wahidul Hoque, First-year **CSE undergraduate at [BUET](https://www.buet.ac.bd/)**  
+# 👋 Hi, I’m Wahidul Hoque, Second-year **CSE undergraduate at [BUET](https://www.buet.ac.bd/)**  
 
 
 ---
